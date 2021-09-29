@@ -1,0 +1,16 @@
+.restaurant-menu{
+    padding-top: 10px;
+    
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-column-gap: 10px;
+}
+.meals-container{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}

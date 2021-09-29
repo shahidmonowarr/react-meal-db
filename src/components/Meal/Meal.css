@@ -1,0 +1,22 @@
+.meal{
+    background-color: navajowhite;
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 15px;
+}
+.meal img{
+    padding-top: 5px;
+    width: 200px;
+}
+.meal button{
+    border-radius: 5px;
+    border-color: gold;
+    padding: 5px 10px;
+    background-color: goldenrod;
+    color: white;
+    cursor: pointer;
+}
+.meal button:hover{
+    border-color: grey;
+    background-color: gray;
+}
